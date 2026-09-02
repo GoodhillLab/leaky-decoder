@@ -1,0 +1,22 @@
+name: leaky
+
+dependencies:
+- python
+- numpy
+- h5py
+- loguru
+- tqdm
+- libblas=*=*_mkl
+- ipywidgets
+- jupyterlab
+- pandas
+- pytables
+- scikit-learn
+- plotly
+- seaborn
+- mscorefonts
+- pip
+- pip:
+  - torch
+  - cebra
+  - elephant[extras]

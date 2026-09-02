@@ -1,0 +1,22 @@
+# make text editable in the output file
+# https://stackoverflow.com/a/35734729
+svg.fonttype: none
+
+# Fonts configuration
+font.family: Arial
+
+# Remove right and top spines from axes
+axes.spines.right: False
+axes.spines.top: False
+
+# Set transparent backgrounds
+figure.facecolor: none
+axes.facecolor: none
+
+# Default figure size (width, height in inches)
+figure.figsize: 2, 2
+figure.constrained_layout.use: True
+
+# Defaults when saving figures
+savefig.dpi: 600
+savefig.transparent: True
