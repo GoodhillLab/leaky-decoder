@@ -1,6 +1,6 @@
 # Leaky decoder
 
-![workflow](https://github.com/rob-the-bot/leaky-decoder-code/actions/workflows/tests.yml/badge.svg)
+![workflow](https://github.com/GoodhillLab/leaky-decoder-code/actions/workflows/tests.yml/badge.svg)
 
 This repository contains the code accompanying the manuscript **Preventing Data Leakage in Neural Decoding**.
 The `demo.ipynb` file includes a Jupyter Notebook that:
